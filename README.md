@@ -1,6 +1,10 @@
 "# web-developer_advancedCSS" 
 
-Repository showing some advanced CSS style rules and a first decent looking page in the form of a basic blog post using
+Repository showing some advanced CSS style rules with 2 first decent looking pages:
+* Photography portfolio
+* Basic blogpost page 
+
+In these projects you can find the usage of the following HTML/CSS properties, styles & methods
 * Divs
 * Classes
 * Borders
