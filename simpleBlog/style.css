@@ -1,0 +1,41 @@
+body {
+    font-family:"Raleway";
+}
+
+hr {
+    color: rgb(230,230,230);
+    background: rgb(230,230,230);
+    
+    margin: 20px 0;
+}
+
+#container {
+    max-width:600px;
+    width:70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    padding: 3%;
+    border:20px solid rgb(180,180,180);
+}
+
+h1 {
+    color:#22181C;
+    font-size:2.5rem;
+}
+
+.date {
+    color:#632B30;
+    letter-spacing: 0.2rem;
+    text-transform:uppercase;
+    font-weight:800;
+}
+
+p {
+    color:#22181C;
+}
+
+.quote{
+    border-left:5px solid #2274A5;
+    padding-left:2%;
+}

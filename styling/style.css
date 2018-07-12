@@ -1,0 +1,17 @@
+p {
+    /* Content width & height */
+    width:50%;
+
+    /* Border */
+    border: 2px solid blue;
+
+    /* Padding (space between element & border) */
+    padding:10px;
+
+    /* Margin (space between elements, eg. around the border) */
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 40px;
+    /* You can also combine these in 1 line (top bottom, left right)*/
+    margin: 10px 20px 50px 100px;
+}
