@@ -9,4 +9,5 @@ In these projects you can find the usage of the following HTML/CSS properties, s
 * Classes
 * Borders
 * Margin/Padding
+* Various font & text properties
 * Responsive layout using percentages instead of fixed (px) values
